@@ -1,4 +1,6 @@
 # alura-tracker
+Para conhecer melhor o projetinho que eu aprendi na Alura, acesse o link: 
+https://alura-tracker-black.vercel.app
 
 ## Project setup
 ```
