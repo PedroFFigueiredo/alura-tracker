@@ -3,6 +3,21 @@
     {
       "id": 1,
       "nome": "Alura Tracker"
+    },
+    {
+      "nome": "PLano B",
+      "id": 2
+    }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura Tracker"
+      }
     }
   ]
 }
